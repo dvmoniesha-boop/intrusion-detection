@@ -89,15 +89,15 @@ The NSL-KDD test set contains attack types that **do not appear in the training 
 
 Terminal output of `python main.py`:
 
-![Terminal output](images/output.png)
+![Terminal output](output.png)
 
 Confusion matrix:
 
-![Confusion matrix](images/confusion_matrix.png)
+![Confusion matrix](confusion_matrix.png)
 
 Top 15 feature importances:
 
-![Feature importance](images/feature_importance.png)
+![Feature importance](feature_importance.png)
 
 ## Ideas for Improvement
 
