@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Dataset (downloaded by data/download_dataset.py)
+data/*.txt
+
+# Trained models (created by train.py)
+models/*.pkl
+
+# Generated charts (screenshots in images/ are allowed)
+*.png
+!images/*.png
+
+output.txt
